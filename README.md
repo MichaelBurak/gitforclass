@@ -1,2 +1,2 @@
 # gitforclass
-sample git setup for TAing
+sample git setup
